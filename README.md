@@ -5,7 +5,7 @@ This is a basic image with the [ns3 simulator](https://www.nsnam.org/) environme
 
 ### Tags
 
-* `3.29` : ns3 version
+* `3.29` : current ns3 version
 
 ### Usage
 
